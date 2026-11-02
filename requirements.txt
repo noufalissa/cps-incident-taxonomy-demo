@@ -1,0 +1,10 @@
+streamlit>=1.41,<2
+pandas>=2.2,<3
+openpyxl>=3.1,<4
+requests>=2.32,<3
+beautifulsoup4>=4.12,<5
+pypdf>=5,<7
+scikit-learn>=1.5,<2
+trafilatura>=1.12,<3
+anthropic>=0.40
+pydantic>=2.7,<3

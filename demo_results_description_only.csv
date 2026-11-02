@@ -1,0 +1,10 @@
+﻿Incident Name,Parent Category,Property,Final Status,Evidence Score,Best Evidence,Source,URL,Scope Note
+Poland Distributed Energy / CHP Cyberattacks,Information Protection,Integrity,CONFIRMED,100.0,The attacks were destructive,Dataset description,,
+Pulaski Electric System (PES) Cyber Attack,Information Protection,Availability,CONFIRMED,73.7,"Cyber attack on December 4 forced PES to disconnect all systems for weeks, disrupting customer bill payments, new installations, and broadband support.",Dataset description,,
+Pulaski Electric System (PES) Cyber Attack,Operational Assurance,Recoverability,CONFIRMED,53.1,"Cyber attack on December 4 forced PES to disconnect all systems for weeks, disrupting customer bill payments, new installations, and broadband support.",Dataset description,,
+Pulaski Electric System (PES) Cyber Attack,Operational Assurance,Privacy,UNAFFECTED,100.0,No sensitive customer data found compromised.,Dataset description,,
+Rogue Devices Found in U.S. Solar Inverters,Information Protection,Integrity,CONFIRMED,56.4,Security experts found rogue communication devices in solar power inverters and batteries installed across the United States.,Dataset description,,
+Rogue Devices Found in U.S. Solar Inverters,Information Protection,Confidentiality,POTENTIAL,38.0,"Undocumented devices could be used for data theft, electricity misuse, or as a platform for launching further cyber attacks.",Dataset description,,
+Svenska kraftnät Ransomware Attack,Information Protection,Confidentiality,CONFIRMED,39.5,approximately 280 GB of internal data was confirmed stolen.,Dataset description,,
+Svenska kraftnät Ransomware Attack,Information Protection,Availability,UNAFFECTED,51.1,Electricity supply unaffected,Dataset description,,
+Conpet Oil Pipeline Cyberattack,Information Protection,Availability,CONFIRMED,53.5,Conpet disclosed a cyberattack affecting business IT infrastructure and website availability.,Dataset description,,Mixed scope: confirmed impact and explicit unaffected evidence both exist.

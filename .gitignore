@@ -1,0 +1,22 @@
+# Secrets — never commit. Layer 2 reads ANTHROPIC_API_KEY from here at runtime.
+.streamlit/secrets.toml
+*.env
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# NOTE: data/cache/ is intentionally NOT ignored.
+# The page and LLM response caches are committed on purpose so that:
+#   - the app works when cloud egress IPs are blocked by news sites
+#   - published results are reproducible against frozen sources
+#   - reruns cost nothing
